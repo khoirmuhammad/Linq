@@ -3,7 +3,9 @@ Lear more about linq
 
 ## Introduction
 I deliberate creating this repository in order to get deep knowledge for myself, about complex query using linq. 
-Also I'm not forget to create equivalent query in store procedure so I able to easy remember, what does the LINQ mean that written by me
+Also I'm not forget to create equivalent query in store procedure so I able to easy remember, what does the LINQ mean that written by me.
+
+This project is created using Database First Approach
 
 Here, I have several tables relation
 
@@ -17,6 +19,9 @@ Here, I have several tables relation
 
 ![Test Image 2](https://github.com/khoirmuhammad/Linq/blob/master/Target.PNG)
 
-<b>ActualSales</b> : In order to record actual sales for employee respectively
+<b>ActualSales</b> : In order to record actual sales for employee respectively. All you guys able to add more transactions.
 
 ![Test Image 2](https://github.com/khoirmuhammad/Linq/blob/master/Actual%20Sales.PNG)
+
+
+What next? You can go to SellController.cs to get more detail about the implementation.
